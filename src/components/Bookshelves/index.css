@@ -1,0 +1,151 @@
+.bookshelf-container {
+  width: 1440px;
+  height: 1289px;
+  top: 9322px;
+  left: 7946px;
+  gap: 0px;
+  opacity: 0px;
+  background: rgba(245, 247, 250, 1);
+}
+.left-section {
+  width: 256px;
+  height: 1152px;
+  top: 137px;
+  left: 150px;
+  gap: 0px;
+  opacity: 0px;
+  background: #ffffff;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+}
+.list-container-bookshelve {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}
+.list-item-bookshelf {
+  margin: 10px;
+}
+.contain {
+  color: rgba(71, 85, 105, 1);
+}
+.list-button {
+  background-color: transparent;
+  border: 0px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(71, 85, 105, 1);
+}
+.heading-book {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 32px;
+  text-align: left;
+  color: rgba(51, 65, 85, 1);
+}
+.list-container-book {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.list-book-item {
+  display: flex;
+  align-items: center;
+  width: 450px;
+  margin: 20px;
+}
+.cover-pic {
+  width: 133px;
+  height: 155px;
+  top: 197px;
+  left: 438px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+  margin: 20px;
+}
+.detaisl {
+  width: 146px;
+  margin: 20px;
+  height: 120px;
+  top: 197px;
+  left: 591px;
+  gap: 0px;
+  opacity: 0px;
+}
+.head-title {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(51, 65, 85, 1);
+}
+.para-author {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  text-align: left;
+  color: rgba(71, 85, 105, 1);
+}
+.star {
+  width: 16px;
+  height: 16px;
+  top: 277px;
+  left: 657px;
+  gap: 0px;
+  opacity: 0px;
+  color: rgba(251, 191, 36, 1);
+}
+.last {
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+  text-align: left;
+}
+.section {
+  display: flex;
+}
+.head-input {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.heading-bb {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.78px;
+  text-align: left;
+}
+.input-book {
+  width: 264px;
+  height: 36px;
+  top: 137px;
+  left: 1026px;
+  gap: 0px;
+  opacity: 0px;
+}
+.search {
+  width: 52px;
+  height: 30px;
+  top: 138px;
+  left: 1237px;
+  gap: 0px;
+  border-radius: 0px 3px 3px 0px;
+  opacity: 0px;
+  background: rgba(237, 239, 241, 1);
+}
+.xxxx{
+  display: flex;
+  align-items: center;
+}

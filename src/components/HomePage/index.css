@@ -1,0 +1,150 @@
+.homepage-container {
+  width: 1440px;
+  height: 1024px;
+  top: 9322px;
+  left: 6356px;
+  gap: 0px;
+  opacity: 0px;
+  background: rgba(245, 247, 250, 1);
+}
+.heading-container {
+  width: 601px;
+  height: 64px;
+  top: 137px;
+  left: 100px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 10px;
+}
+.heading-homepage {
+  font-family: Inter;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 64px;
+  text-align: left;
+  color: rgba(30, 41, 59, 1);
+}
+.para-container {
+  width: 998px;
+  height: 64px;
+  top: 213px;
+  left: 100px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 10px;
+}
+.para-homepage {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+  text-align: left;
+  color: rgba(71, 85, 105, 1);
+}
+.toprated-container {
+  width: 1240px;
+  height: 424px;
+  top: 309px;
+  left: 100px;
+  gap: 0px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 16px 0px 0px 0px;
+  opacity: 0px;
+  background: rgba(255, 255, 255, 1);
+}
+.list-container {
+  list-style-type: none;
+  padding: 10px;
+}
+.list-item-book2 {
+  width: 350px;
+  height: 292px;
+  top: 409px;
+  left: 171px;
+  gap: 0px;
+  border-radius: 4px 0px 0px 0px;
+  opacity: 0px;
+}
+.book-image {
+  width: 300px;
+  height: 224px;
+  top: 409px;
+
+  left: 171px;
+  gap: 0px;
+  border-radius: 4px 0px 0px 0px;
+  opacity: 0px;
+}
+.heading {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  text-align: center;
+}
+.para {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: center;
+}
+.failure {
+  width: 347px;
+  height: 170px;
+  top: 419px;
+  left: 547px;
+  gap: 0px;
+  opacity: 0px;
+}
+.heading-failure {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+}
+.failure-button {
+  width: 75px;
+  height: 32px;
+  top: 653px;
+  left: 683px;
+  gap: 0px;
+  border-radius: 2px 0px 0px 0px;
+  opacity: 0px;
+  background: blue;
+  color: #ffffff;
+}
+.topratedheading {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  text-align: center;
+  color: rgba(30, 41, 59, 1);
+}
+.finbutton {
+  width: 104px;
+  height: 36px;
+  top: 343px;
+  left: 1165px;
+  gap: 0px;
+  opacity: 0px;
+  background: blue;
+  color: #ffffff;
+  border: 0px;
+  border-radius: 20px;
+}
+.top-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

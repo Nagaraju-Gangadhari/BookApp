@@ -1,0 +1,26 @@
+.footer-container {
+  width: 145px;
+  height: 21px;
+  top: 899px;
+  left: 647px;
+  gap: 0px;
+  opacity: 0px;
+  color: rgba(61, 60, 60, 1);
+  display: flex;
+  align-items: center;
+}
+.icon-contain {
+  width: 21px;
+  margin: 10px;
+  height: 21px;
+  top: 899px;
+  left: 771px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Font Awesome 5 Brands;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20.7px;
+  text-align: center;
+  color: rgba(61, 60, 60, 1);
+}

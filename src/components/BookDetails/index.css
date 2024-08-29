@@ -1,0 +1,123 @@
+.bookItem {
+  width: 1440px;
+  height: 1100px;
+  top: 9322px;
+  left: 14306px;
+  gap: 0px;
+  opacity: 0px;
+  background: rgba(245, 247, 250, 1);
+}
+.container {
+  width: 1140px;
+  height: 726px;
+  top: 153px;
+  left: 150px;
+  gap: 0px;
+  opacity: 0px;
+  border-width: 0px, 0px, 0px, 0px;
+  border-style: solid;
+  background: #ffffff;
+  border-radius: 20px;
+}
+.topside {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+.image-book {
+  width: 270px;
+  height: 274px;
+
+  left: 427px;
+  gap: 0px;
+  border-radius: 14.13px 0px 0px 0px;
+  opacity: 0px;
+}
+.sectiontwo {
+  width: 303px;
+  height: 285px;
+  padding: 10px;
+  left: 710px;
+  gap: 0px;
+  margin: 10px;
+  opacity: 0px;
+}
+.head-title2 {
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 48px;
+  text-align: left;
+  color: rgba(51, 65, 85, 1);
+}
+.para-author2 {
+  color: rgba(71, 85, 105, 1);
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32px;
+  text-align: left;
+}
+.rating2 {
+  width: 123px;
+  height: 32px;
+  top: 370px;
+  left: 710px;
+  gap: 0px;
+  opacity: 0px;
+  color: rgba(71, 85, 105, 1);
+}
+.star2 {
+  width: 32px;
+  height: 32px;
+  top: 370px;
+  left: 849px;
+  gap: 0px;
+  opacity: 0px;
+  color: rgba(251, 191, 36, 1);
+}
+.last2 {
+  width: 88px;
+  height: 32px;
+  top: 418px;
+  left: 710px;
+  gap: 0px;
+  opacity: 0px;
+}
+.span {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+  text-align: left;
+  color: rgba(2, 132, 199, 1);
+}
+.line {
+  width: 1012px;
+  height: 0px;
+  top: 523px;
+  left: 214px;
+  gap: 0px;
+  opacity: 0px;
+  border: 1px solid rgba(148, 163, 184, 1);
+}
+.abouthead {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  text-align: left;
+  color: rgba(51, 65, 85, 1);
+}
+.aboutpara {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  color: rgba(71, 85, 105, 1);
+}
+.bottom{
+  margin: 25px;
+}
